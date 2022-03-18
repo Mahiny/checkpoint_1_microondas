@@ -1,7 +1,5 @@
 # Programação Imperativa: 1 ͦ Checkpoint!
 
-Menu para microondas. 
-
 # Requisitos:
 Menu para um microondas super veloz, onde teremos 5 opções de comida com seus respectivos tempos pré-definidos.
 
@@ -18,10 +16,6 @@ Menu para um microondas super veloz, onde teremos 5 opções de comida com seus 
 - Se o tempo for 3x maior que o necessário para o prato, o microondas deve exibir a mensagem: “kabumm”;
 - No final de cada tarefa, o microondas deverá exibir a mensagem: "Prato pronto, bom apetite!!!".
 
-# Métodos utilizados para solução:
-Estrutura condicional, funções, declarações de variáveis e estrutura de verificação.
-
 # Ferramentas utilizadas
 - Linguagem: Javascript
 - Editor de Códido: VSCode
-
