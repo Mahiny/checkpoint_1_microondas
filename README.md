@@ -22,5 +22,5 @@ Menu para um microondas super veloz, onde teremos 5 opções de comida com seus 
 Estrutura condicional, funções, declarações de variáveis e estrutura de verificação.
 
 # Ferramentas utilizadas
-Linguagem: Javascript
-Editor de Códido: VSCode
+- Linguagem: Javascript
+- Editor de Códido: VSCode
