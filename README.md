@@ -24,3 +24,4 @@ Estrutura condicional, funções, declarações de variáveis e estrutura de ver
 # Ferramentas utilizadas
 - Linguagem: Javascript
 - Editor de Códido: VSCode
+
