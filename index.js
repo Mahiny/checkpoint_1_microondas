@@ -11,10 +11,13 @@ function microondas(comida, tempo) {
                  console.log("Prato pronto, bom apetite!!!");
             } else if (tempo / 10 >= 2 && tempo / 10 < 3) {
                  console.log("O prato queimou");
+                 console.log("Prato pronto, bom apetite!!!");
             } else if (tempo / 10 >= 3) {
                  console.log("kabumm");
+                 console.log("Prato pronto, bom apetite!!!");
             } else {
                  console.log("tempo insuficiente");
+                 console.log("Prato pronto, bom apetite!!!");
             }
             break;
         case 2:
@@ -22,10 +25,13 @@ function microondas(comida, tempo) {
                  console.log("Prato pronto, bom apetite!!!");
             } else if (tempo / 8 >= 2 && tempo / 8 < 3 ) {
                  console.log("O prato queimou");
+                 console.log("Prato pronto, bom apetite!!!");
             } else if (tempo / 8 >= 3) {
                  console.log("kabumm");
+                 console.log("Prato pronto, bom apetite!!!");
             } else {
                  console.log("tempo insuficiente");
+                 console.log("Prato pronto, bom apetite!!!");
             }
             break;
         case 3:
@@ -33,10 +39,13 @@ function microondas(comida, tempo) {
                  console.log("Prato pronto, bom apetite!!!");
             } else if (tempo / 15 >= 2 && tempo / 15 < 3) {
                  console.log("O prato queimou");
+                 console.log("Prato pronto, bom apetite!!!");
             } else if (tempo / 15 >= 3) {
                  console.log("kabumm");
+                 console.log("Prato pronto, bom apetite!!!");
             } else {
                  console.log("tempo insuficiente");
+                 console.log("Prato pronto, bom apetite!!!");
             }
             break;
         case 4:
@@ -44,10 +53,13 @@ function microondas(comida, tempo) {
                  console.log("Prato pronto, bom apetite!!!");
             } else if (tempo / 12 >= 2 && tempo / 12 < 3) {
                  console.log("O prato queimou");
+                 console.log("Prato pronto, bom apetite!!!");
             } else if (tempo / 12 >= 3) {
                  console.log("kabumm");
+                 console.log("Prato pronto, bom apetite!!!");
             } else {
                  console.log("tempo insuficiente");
+                 console.log("Prato pronto, bom apetite!!!");
             }
             break;
         case 5:
@@ -55,10 +67,13 @@ function microondas(comida, tempo) {
                  console.log("Prato pronto, bom apetite!!!");
             } else if (tempo / 8 >= 2 && tempo / 8 < 3) {
                  console.log("O prato queimou");
+                 console.log("Prato pronto, bom apetite!!!");
             } else if (tempo / 8 >= 3) {
                  console.log("kabumm");
+                 console.log("Prato pronto, bom apetite!!!");
             } else {
                  console.log("tempo insuficiente");
+                 console.log("Prato pronto, bom apetite!!!");
             }
             break;
         default:
